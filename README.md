@@ -1,4 +1,5 @@
 # Analysis_of_traffic_accidents_in_Berlin_2018-2020
+Authors: Selena Eberwein and Roman Kaltschew
 
 The following analysis will explore traffic accidents in Berlin in the years 2018-2020.
 The data is open source https://daten.berlin.de/datensaetze/strassenverkehrsunf%C3%A4lle-nach-unfallort-berlin-2020 and is available as a csv file for each year (2018, 2019, 2020). It contains road traffic accidents by accident location with road name, GPS coordinates and LOR planning area in Berlin 2020; accident month, day of the week, hour; accident type and category. 
